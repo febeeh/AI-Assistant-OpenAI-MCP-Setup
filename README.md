@@ -1,6 +1,6 @@
 # ai-assistant-openai-mcp-setup
 
-A Minimal AI assistant setup with OPENAI & Local MCP Server (Model Context Protocol) tool support and a Gradio chat UI. Built with FastAPI, FastMCP, and Gradio. 
+A Minimal AI assistant setup with OPENAI & MCP Server (Model Context Protocol) tool support and a Gradio chat UI. Built with FastAPI, FastMCP, and Gradio.
 
 ## Architecture
 
