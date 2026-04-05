@@ -1,6 +1,6 @@
-# simple-ai-assistant-openai-mcp
+# ai-assistant-openai-mcp-setup
 
-A simple AI assistant with OPENAI & MCP (Model Context Protocol) tool support and a Gradio chat UI. Built with FastAPI, FastMCP, and Gradio.
+A Minimal AI assistant setup with OPENAI & Local MCP Server (Model Context Protocol) tool support and a Gradio chat UI. Built with FastAPI, FastMCP, and Gradio. 
 
 ## Architecture
 
@@ -19,7 +19,7 @@ User ↔ Gradio Chat UI ↔ OpenAI API ↔ MCP Server (FastAPI + FastMCP)
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/febeeh/simple-ai-assistant-openai-mcp
+git clone https://github.com/febeeh/ai-assistant-openai-mcp-setup
 cd simple-ai-assistant-openai-mcp
 ```
 
